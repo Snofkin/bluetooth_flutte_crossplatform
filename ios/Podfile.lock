@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - quick_blue (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - quick_blue (from `.symlinks/plugins/quick_blue/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  quick_blue:
+    :path: ".symlinks/plugins/quick_blue/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  quick_blue: 3786c0eccb373bf9799ec1b42f495f77199a4e7e
+
+PODFILE CHECKSUM: 38746450dbb7c7959303fdd0a064f5d6ca5355a9
+
+COCOAPODS: 1.12.1
